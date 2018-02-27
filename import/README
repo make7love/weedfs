@@ -1,0 +1,5 @@
+1. 图片名称必须以seaweedfs中fid格式命名；
+2. 解压后，包含一个import.py文件，一个images目录；
+3. 将要上传的文件放入images目录内；
+4. 在当前目录中，执行 python import.py ，即可等待文件上传成功；
+5. 支持一张和多张图片上传；
